@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+*{
+  background-color: pink;
+  font-family: 'Merienda';
+  text-align: center;
+}
+a{
+  margin: 20px;
+}
+.blue{
+  background-color: #5d46e2;
+  padding: 10px;
+  color: whitesmoke;
+  margin: 30px;
+  border-radius: 20px;
+}
+.red{
+  background-color: red;
+  position: absolute;
+  padding: 10px;
+  top: 90vh;
+}
+.red:hover{
+  display: none;
+}
